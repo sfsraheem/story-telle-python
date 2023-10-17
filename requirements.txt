@@ -1,0 +1,13 @@
+font-fredoka-one
+font-amatic-sc
+fonts
+numpy
+matplotlib
+python-bidi
+torchvision
+fpdf
+stability-sdk
+Pillow
+openai
+docker-entrypoint
+flask
